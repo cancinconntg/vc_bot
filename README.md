@@ -6,7 +6,7 @@ Hazırlayan = [@Casperen](https://t.me/Casperenn)
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cancinconntg/vc_bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gangsteren/vc_bot.git)
 
 STRING_NAME i buradan alın ;
 
